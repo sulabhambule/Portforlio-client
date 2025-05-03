@@ -30,7 +30,7 @@ const Contact = () => {
     try {
       console.log("Form data being sent:", formData);
       const response = await axios.post(
-        "http://localhost:6005/api/v1/contact",
+        "https://portfolio-backend-cyan-sigma.vercel.app/api/v1/contact",
         formData,
         {
           headers: {
