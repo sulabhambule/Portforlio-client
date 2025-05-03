@@ -79,7 +79,7 @@ const Contact = () => {
                 {/* Email Icon */}
               </i>
               <span className="text-lg mb-4 text-black dark:text-white">
-                sulabhambule@gmail.com
+                sulabhambule02@gmail.com
               </span>
             </li>
             <li className="flex">
