@@ -1,0 +1,6 @@
+/* Navbar.css */
+@media (max-width: 640px) {
+  .navbar-menu {
+    display: block;
+  }
+}
